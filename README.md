@@ -6,6 +6,14 @@ Currently there is one search script: `biocase-accesspoint-search.sh`
 
 ## biocase-accesspoint-search.sh
 
+### Installation
+
+The sript required *HTTPie* and *jq*. These tols can be installed on debian systems by
+
+~~~
+apt-get install httpie jq
+~~~
+
 ### Usage
 
 ~~~
